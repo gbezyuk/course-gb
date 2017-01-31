@@ -4,5 +4,4 @@
 
 ## Перевод в десячичную систему счисления
 
-Если число в  b-ричной системе счисления равно  
 ![translated into decimal notation](./img/translated-into-decimal-notation.jpg)
